@@ -58,12 +58,12 @@ library-cli/
 
 Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/library-cli.git
+git clone https://github.com/gabrielmrezende/library-manager-cli.git
 ```
 
 Entre na pasta:
 ```bash
-cd library-cli
+cd library-manager-cli
 ```
 
 Crie o banco de dados:
